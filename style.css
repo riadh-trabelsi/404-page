@@ -1,0 +1,28 @@
+body {
+    background-image: url('https://tse2.mm.bing.net/th?id=OIP.HNNwvX61ujRn5lNIDTP5dgHaE8&pid=Api&P=0&h=220.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+}
+.button {
+    padding: 15px 30px;
+    background-color: rgb(24, 185, 218);
+    margin-left: 300px;
+}
+.link {
+    text-decoration: none;
+    color:rgb(146, 15, 15);
+}
+.button:hover {
+    background-color: #832b5d;}
+    .grid2 {
+     font-size: 30px;
+     font-family:Georgia, 'Times New Roman', Times, serif;
+    }
+    h2 {
+        margin-top: 100px;
+    }
