@@ -1,3 +1,6 @@
+
+
+
 @media  screen and (min-width:769px) {
     body {
         background-image: url('https://tse2.mm.bing.net/th?id=OIP.HNNwvX61ujRn5lNIDTP5dgHaE8&pid=Api&P=0&h=220.jpg');
@@ -14,7 +17,7 @@
         position: relative;
         padding: 15px 30px;
         background-color: rgb(24, 185, 218);
-        margin-left: 300px;
+        margin-left: 0 auto;
     
     }
     .link {
@@ -30,6 +33,9 @@
         h2 {
             margin-top: 100px;
         } 
+        .grid2 {
+            text-align: center;
+        }
         
 }
 
@@ -43,7 +49,7 @@
     }
     .grid {
         display: grid;
-        grid-template-columns: 1fr 2fr;
+        grid-template-columns: 1fr 3fr;
     }
     
     .link {
